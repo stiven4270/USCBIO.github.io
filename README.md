@@ -1,6 +1,5 @@
 <h1 align="center"> <a href="https://github.com/Aryagm">DATABASE REPOSITORY OF SOME PHYSIOLOGICAL PARAMETERS TAKEN IN A LABORATORY FROM 56 DIFFERENT SUBJECTS<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
-<Br>
-   
+<hr>
 <h1>About Me! 😎
 </h1>
 
