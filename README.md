@@ -13,9 +13,9 @@
 <Br>
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
-   ☎️ 3176874135                                                      Gmail:stiven.tapia00@usc.edu.co
+   ☎️ 3176874135
+   Gmail:stiven.tapia00@usc.edu.co
 </p>
-  
 <Br>
 <hr>
 <Br>
