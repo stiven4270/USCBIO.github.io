@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+  <img src="https://www.researchgate.net/profile/Giorgio-Zamataro/publication/318227414/figure/fig3/AS:650459299729415@1532092990538/Senal-PPG-usado-para-el-envio-tramite-serial.png" height="230"/>
 </p>
 <hr>
 <h1 align="center"> <a href="https://github.com/Aryagm">DATABASE REPOSITORY OF SOME PHYSIOLOGICAL PARAMETERS TAKEN IN A LABORATORY FROM 56 DIFFERENT SUBJECTS<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
