@@ -1,4 +1,3 @@
-<hr>
 <a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <h1 align="center"> <a href="https://github.com/Aryagm">DATABASE REPOSITORY OF SOME PHYSIOLOGICAL PARAMETERS TAKEN IN A LABORATORY FROM 56 DIFFERENT SUBJECTS
 <Br>
