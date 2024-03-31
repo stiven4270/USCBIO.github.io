@@ -10,8 +10,6 @@
 - 💻: I am a ninth semester bioengineering student.💻
 - 🔭: I’m currently working on projects in matlab. 🧠🤖
 
-  
-<hr>
 <Br>
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
