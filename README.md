@@ -80,5 +80,5 @@
 
 ------
   
-Credit: [Aryagm](https://github.com/Aryagm)
-Last Edited on: 22/06/2021
+Credit: Stiven Tapia
+Last Edited on: 24/03/2024
