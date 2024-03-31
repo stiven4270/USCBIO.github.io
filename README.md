@@ -66,3 +66,11 @@
 Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
 
 Last Edited on: 11/12/2020
+
+flowchart TB
+ A>"Computer"]  
+ B[("Programs")] 
+ C[("Tools")]
+ A --> B
+ A --> C
+
