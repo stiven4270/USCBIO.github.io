@@ -8,7 +8,6 @@
 
 - 🔭: I’m currently working on projects in matlab. 🧠🤖
 <hr>
-<Br>
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
    ☎️ 3176874135
