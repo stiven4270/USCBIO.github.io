@@ -3,7 +3,7 @@
    
 <h1>About Me! 😎
 </h1>
-- 💻: I am a ninth semester bioengineering student.💻
+ - 💻: I am a ninth semester bioengineering student.💻
 
 - 🔭: I’m currently working on projects in matlab. 🧠🤖
 <hr>
