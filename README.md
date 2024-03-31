@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="![image](https://github.com/stiven4270/USCBIO.github.io/assets/165412316/8075169b-6780-422a-9309-6d7abb56cdd9)
-" height="230"/>
+  <img src="![image](https://github.com/stiven4270/USCBIO.github.io/assets/165412316/8075169b-6780-422a-9309-6d7abb56cdd9)" height="230"/>
 </p>
 <hr>
 <h1 align="center"> <a href="https://github.com/Aryagm">DATABASE REPOSITORY OF SOME PHYSIOLOGICAL PARAMETERS TAKEN IN A LABORATORY FROM 56 DIFFERENT SUBJECTS<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
