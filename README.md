@@ -15,8 +15,7 @@
 <Br>
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
-<p align="center">
-<a href="" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/stiven4270" target="blank"><img align="center" src="https://img.shields.io/badge/Aryagm-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+☎️
 </p>
   
 <Br>
