@@ -14,7 +14,6 @@
    ☎️ 3176874135
    Gmail:stiven.tapia00@usc.edu.co
 <hr>
-<Br>
 <h1 align="center">Skills I have! 🤸‍♂</h1>
 <Br>
   
