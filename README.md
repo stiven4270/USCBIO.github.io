@@ -2,7 +2,7 @@
   <img src="https://miro.medium.com/v2/resize:fit:2048/1*OohqW5DGh9CQS4hLY5FXzA.png"/>
 </p>
 <hr>
-<h1 align="center"> <a href="https://github.com/Aryagm">DATABASE REPOSITORY OF SOME PHYSIOLOGICAL PARAMETERS TAKEN IN A LABORATORY FROM 56 DIFFERENT SUBJECTS
+<h1 align="center"> <a href="https://github.com/Aryagm">DATABASE REPOSITORY OF SOME PHYSIOLOGICAL PARAMETERS TAKEN IN A LABORATORY FROM 56 DIFFERENT SUBJECTS<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
   
 <h1>About Me! 😎</h1>
