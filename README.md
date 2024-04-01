@@ -16,8 +16,6 @@
    ☎️ 3176874135
    Gmail:stiven.tapia00@usc.edu.co
 <hr>
- 
-<Br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=stiven4270&icon=0&color=0)](https://visitcount.itsvg.in)
