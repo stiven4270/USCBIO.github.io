@@ -17,11 +17,6 @@
    Gmail:stiven.tapia00@usc.edu.co
 <hr>
  
-<h1>Tools I use! 🛠️</h1>
-<Br>
- 
-<Br>
-<hr>
 <Br>
 
 <h1>Some of my Projects! 🎨</h1>
