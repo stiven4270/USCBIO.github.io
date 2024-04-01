@@ -25,10 +25,14 @@
 <Br>
 <hr>
 <Br>
+
 <h1>Some of my Projects! 🎨</h1>
+
 <Br>
 <Br>
+
 <h1>Thank You! 🤵 </h1>
+
 <Br>
 
 ---
