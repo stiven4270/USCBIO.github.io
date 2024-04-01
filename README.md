@@ -26,13 +26,11 @@
 <h1>Some of my Projects! 🎨</h1>
 <Br>
  https://github.com/stiven4270/USCBIO.github.io 
-[![ReadMe Card](https://github.com/stiven4270/USCBIO.github.io).
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&repo=California_Housing_Prices)](https://github.com/Aryagm/California_Housing_Prices)
 https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&repo=California_Housing_Prices)](https://github.com/Aryagm/California_Housing_Prices)
 <Br>
 <h1>Thank You! 🤵 </h1>
 <Br>
-
 ------
-  
 Credit: Stiven Tapia
 Last Edited on: 24/03/2024
