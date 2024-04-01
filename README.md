@@ -16,9 +16,7 @@
    ☎️ 3176874135
    Gmail:stiven.tapia00@usc.edu.co
 <hr>
- 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
+ 
 <h1>Tools I use! 🛠️</h1>
 <Br>
  
